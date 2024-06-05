@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanvviratthore
 - 👀 I’m interested in Data science, AI and learning new technologies. 
 - 🌱 I’m currently learning JAVA. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Developement projects
 - 📫 How to reach me ...
 
 <!---
