@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science, AI and App development. 
 - 🌱 I’m currently learning DSA and flutter. 
 - 💞️ I’m looking to collaborate on Developement projects
-- 📫 linkedin.com/in/sanvi-rathore-75611a289
+- 📫 You can connect with me on LinkedIn: linkedin.com/in/sanvi-rathore-75611a289
 
 <!---
 sanvviratthore/sanvviratthore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
