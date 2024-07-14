@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sanvviratthore
-- 👀 I’m interested in Data science, AI and learning new technologies. 
-- 🌱 I’m currently learning JAVA. 
+- 👀 I’m interested in Data science, AI and App development. 
+- 🌱 I’m currently learning DSA and flutter. 
 - 💞️ I’m looking to collaborate on Developement projects
-- 📫 How to reach me ...
+- 📫 linkedin.com/in/sanvi-rathore-75611a289
 
 <!---
 sanvviratthore/sanvviratthore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
