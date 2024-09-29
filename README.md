@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/74089aea-2dda-4e49-9df0-a3add0dab309.png" alt="my banner">
+<img src="https://github.com/user-attachments/assets/74089aea-2dda-4e49-9df0-a3add0dab309" alt="my banner">
 
 ## 🛠 Technical Skills
 
