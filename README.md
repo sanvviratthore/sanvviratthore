@@ -1,28 +1,36 @@
-<img src="https://github.com/user-attachments/assets/74089aea-2dda-4e49-9df0-a3add0dab309" alt="my banner">
+<h1 align="center">Hi 👋, I'm Sanvi Rathore</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## 🛠 Technical Skills
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanvviratthore&label=Profile%20views&color=0e75b6&style=flat" alt="sanvviratthore" /> </p>
 
-### Languages & Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-003B57?style=for-the-badge&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/Python-003B57?style=for-the-badge&logo=python&logoColor=black)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanvviratthore" alt="sanvviratthore" /></a> </p>
 
-### Styling
-![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<p align="left"> <a href="https://twitter.com/sanvi280304" target="blank"><img src="https://img.shields.io/twitter/follow/sanvi280304?logo=twitter&style=for-the-badge" alt="sanvi280304" /></a> </p>
 
-### Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🔭 I’m currently working on [Coastal Commpass](https://github.com/sanvviratthore/Coastal-Compass)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sanvviratthore)](https://github.com/sanvviratthore)
+- 💬 Ask me about **Flutter and JAVA**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanvviratthore&layout=compact)](https://github.com/sanvviratthore)
+- 📫 How to reach me **rathoresanvi3@gmail.com**
 
-## 🌐 Connect with Me
+- ⚡ Fun fact **I think I am funny**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanvi-rathore-75611a289)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sanvirathore432)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sanvi280304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanvi280304" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanvi-rathore-75611a289?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bdrgohveirkcqtvrdga5qfw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanvi-rathore-75611a289?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bdrgohveirkcqtvrdga5qfw%3d%3d" height="30" width="40" /></a>
+<a href="https://medium.com/@sanvirathore432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanvirathore432" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/sanvii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sanvii" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/sanvviratthore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sanvviratthore/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sanviratv1sm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sanviratv1sm/" height="30" width="40" /></a>
+<a href="https://discord.gg/sanvi6492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sanvi6492" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanvviratthore&show_icons=true&locale=en&layout=compact" alt="sanvviratthore" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanvviratthore&show_icons=true&locale=en" alt="sanvviratthore" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanvviratthore&" alt="sanvviratthore" /></p>
