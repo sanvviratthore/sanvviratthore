@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanvi280304" target="blank"><img src="https://img.shields.io/twitter/follow/sanvi280304?logo=twitter&style=for-the-badge" alt="sanvi280304" /></a> </p>
 
-- 🔭 I’m currently working on [Coastal Compass](https://github.com/sanvviratthore/Coastal-Compass)
+- 🔭 I’m currently working on [My Portfolio App](https://github.com/sanvviratthore/Coastal-Compass)
 
 - 💬 Ask me about **Flutter and JAVA**
 
