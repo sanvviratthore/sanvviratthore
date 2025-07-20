@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sanvi280304" target="blank"><img src="https://img.shields.io/twitter/follow/sanvi280304?logo=twitter&style=for-the-badge" alt="sanvi280304" /></a> </p>
 
-- 🔭 I’m currently working on [Career Coach](https://github.com/sanvviratthore/Career-Coach)
+- 🔭 I’m currently working on my DSA and Problem Solving skills.
 
 - 💬 Ask me about **Flutter and JAVA**
 
 - 📫 How to reach me **rathoresanvi3@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
