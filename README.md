@@ -4,6 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/sanvi280304" target="blank"><img src="https://img.shields.io/twitter/follow/sanvi280304?logo=twitter&style=for-the-badge" alt="sanvi280304" /></a> </p>
 
-- 🔭 I’m currently working on Backend Services and DSA.
+- 🔭 I’m currently working on Backend Services.
 
 - 📫 How to reach me **rathoresanvi3@gmail.com**
